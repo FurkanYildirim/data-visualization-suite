@@ -56,3 +56,7 @@ Draws a line chart on a canvas element.
   - `lineWidth` (Number, default: 2): Width of the line.
 
 This method draws a line chart using the provided data on a canvas element. You can customize the appearance of the chart using the optional `options` object, which includes properties such as `canvasId`, `lineColor`, and `lineWidth`. If not specified, default values will be used.
+
+## Contributing
+
+For issues, bugs or imporvements please open an [issue](https://github.com/FurkanYildirim/data-visualization-suite/issues/new)
