@@ -2,11 +2,15 @@
   "name": "data-visualization-suite",
   "version": "1.0.0",
   "description": "A simple npm package for data visualization with customizable line charts.",
-  "keywords": ["data visualization", "chart", "graph", "canvas"],
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FurkanYildirim/data-visualization-suite.git"
+  },
+  "keywords": ["data visualization", "chart", "graph", "canvas"],
   "author": "Furkan YILDIRIM",
   "license": "MIT",
   "devDependencies": {
