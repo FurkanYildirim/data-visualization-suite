@@ -1,5 +1,5 @@
 {
-  "name": "data-visualization-suite",
+  "name": "data-visualizationSuite",
   "version": "1.0.0",
   "description": "A simple npm package for data visualization with customizable line charts.",
   "main": "index.js",
