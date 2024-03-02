@@ -1,0 +1,20 @@
+{
+  "name": "data-visualization-suite",
+  "version": "1.0.0",
+  "description": "A simple npm package for data visualization with customizable line charts.",
+  "keywords": ["data visualization", "chart", "graph", "canvas"],
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Furkan YILDIRIM",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "jsdom": "^18.0.0",
+    "mocha": "^9.0.0"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
