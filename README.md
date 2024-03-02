@@ -11,7 +11,6 @@ The Data Visualization Suite is a lightweight npm package designed for data visu
 - Customizable line charts to suit specific needs.
 - Easy integration into web projects.
 
-
 ## Features
 
 - Simple and easy-to-use API for drawing line charts.
@@ -40,7 +39,6 @@ DataVisualizationSuite.drawLineChart(data, {
   lineWidth: 2  // Line width
 });
 ```
-
 ## API
 
 ### `DataVisualizationSuite.drawLineChart(data, options)`
