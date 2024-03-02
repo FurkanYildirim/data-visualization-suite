@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/FurkanYildirim/data-visualization-suite.git"
   },
+  "homepage": "https://FurkanYildirim.github.io/data-visualization-suite",
   "keywords": ["data visualization", "chart", "graph", "canvas"],
   "author": "Furkan YILDIRIM",
   "license": "MIT",
