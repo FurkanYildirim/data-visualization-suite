@@ -1,6 +1,6 @@
 # Data Visualization Suite
 
-[![License:MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)]
+[![License:MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/FurkanYildirim/data-visualization-suite/blob/main/LICENSE)
 
 The Data Visualization Suite is a lightweight npm package designed for data visualization, featuring customizable line charts.
 
